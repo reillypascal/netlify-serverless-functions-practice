@@ -1,0 +1,14 @@
+{
+  "name": "netlify-serverless-functions-practice",
+  "version": "1.0.0",
+  "description": "netlify serverless functions practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reilly Spitzfaden",
+  "license": "MIT",
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
